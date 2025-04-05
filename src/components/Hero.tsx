@@ -36,7 +36,7 @@ const Hero = () => {
             <div className="absolute inset-0 rounded-full bg-portfolio-blue opacity-10 animate-pulse"></div>
             <div className="absolute inset-4 rounded-full bg-portfolio-blue-light flex items-center justify-center overflow-hidden">
               <img 
-                src="https://drive.google.com/file/d/14GO6JfhD8ogb1LvdHHVeiFmsTbVfnCdR/view?usp=sharing" 
+                src="https://i.imgur.com/fTNYzwN.jpeg" 
                 alt="Profile" 
                 className="object-cover w-full h-full rounded-full"
               />
